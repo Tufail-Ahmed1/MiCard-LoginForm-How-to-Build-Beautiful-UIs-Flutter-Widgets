@@ -1,8 +1,10 @@
-# micard_flutter_project
+# Micard Form Beautiful UIs Flutter App
 
-A new Flutter project.
+Create a MiCard Form Beautiful UIs App 
 
-## Getting Started
+# Screenshots
+<img width="469" alt="image" src="https://github.com/Tufail-Ahmed1/MiCard-LoginForm-How-to-Build-Beautiful-UIs-Flutter-Widgets/assets/128387947/8e1feba3-b003-4c33-b4c0-657a91d6a830">
+
 
 This project is a starting point for a Flutter application.
 
